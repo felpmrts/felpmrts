@@ -13,7 +13,11 @@
 [![Learning](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <br>
 <br>
-### 📊 Stats
+
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=felpmrts&show_icons=true&theme=gruvbox" > <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpmrts&layout=compact&theme=gruvbox">
 
 <div style="height: 1px; background-color: #d0d7de; margin: 1em 0;"></div>
+
+<div align="center">
+  <sub><i>📫 You can reach me through: <a href="mailto:felipe_martins__@outlook.com">felipe_martins__@outlook.com</a></i></sub>
+</div>
