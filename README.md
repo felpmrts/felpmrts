@@ -10,7 +10,7 @@
 <br>
 
 ## 📚 Studying
-[![Learning](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=java,idea)](https://skillicons.dev)
 <br>
 <br>
 
