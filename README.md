@@ -4,7 +4,7 @@
 <br>
 <br>
 
-🎓  Information Systems - Federal University of Uberlândia | FACOM | <br>
+🎓  Information Systems - Federal University of Uberlândia <br>
 🔠  Advanced English
 
 
