@@ -13,7 +13,7 @@
 
 ## 📌 Main skills! 
 
-[![My Skills](https://skillicons.dev/icons?i=c,git,github,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,vscode,git,github,notion,obsidian)](https://skillicons.dev)
 <br>
 <br>
 
