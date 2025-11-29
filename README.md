@@ -22,8 +22,4 @@
 <br>
 <br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felpmrts&layout=compact&theme=gruvbox">
-
-<div style="height: 1px; background-color: #d0d7de; margin: 1em 0;"></div>
-
 
