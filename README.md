@@ -1,6 +1,6 @@
 [![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF8C00,50:FFA500,100:FF4500&height=300&section=header&text=Hello,%20World!%20I'm%20Felipe&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Inovation%20•%20Grit%20•%20Purpose&descSize=20&descAlignY=55)](https://github.com/felpmrts)
 
-*I'm a **fullstack developer** living in Brazil. My greatest motivation is to learn continuously and apply that knowledge to develop creative and efficient solutions. I am always looking for new challenges and ways to turn ideas into code. My motto is grit!*
+*I'm working with **data & AI** in Brazil. My greatest motivation is to learn continuously and apply that knowledge to develop creative and efficient solutions. I am always looking for new challenges and ways to turn ideas into code. My motto is grit!*
 <br>
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 
 ## 📚 Studying
-[![Learning](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 <br>
 <br>
 
