@@ -17,12 +17,12 @@
 
 ## 📌 Main skills! 
 
-[![My Skills](https://skillicons.dev/icons?i=c,vscode,git,github,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,postgresql,vscode,git,github,notion,obsidian)](https://skillicons.dev)
 <br>
 <br>
 
 ## 📚 Studying
-[![Learning](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
 <br>
 <br>
 
