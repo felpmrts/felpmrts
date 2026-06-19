@@ -8,7 +8,7 @@
 🔠  Advanced English <br>
 📫 You can reach me through: <a href="mailto:felipe_martins__@outlook.com">felipe_martins__@outlook.com</a> <br>
 🔗 Linkedin: [www.linkedin.com/in/felipe-martins-a9a2a6264](http://www.linkedin.com/in/felipe-martins-a9a2a6264) <br>
-💻 Portifolio: https://felpmrts.github.io/felpmrts/
+💻 Portfolio: https://felpmrts.github.io/felpmrts/
 
 <br>
 
