@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,50:38B6FF,100:004AAD&height=300&section=header&text=Hello,%20World!%20I'm%20Felipe&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Inovation%20•%20Grit%20•%20Purpose&descSize=20&descAlignY=55)](https://github.com/felpmrts)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:004AAD,50:38B6FF,100:004AAD&height=300&section=header&text=Hello,%20World!%20I'm%20Felipe&fontSize=70&fontColor=f0f0f5&animation=fadeIn&fontAlignY=38&desc=Data%20•%20Cloud%20•%20AI&descSize=20&descAlignY=55)](https://github.com/felpmrts)
 
 *I'm working with **data & AI** in Brazil. My greatest motivation is to learn continuously and apply that knowledge to develop creative and efficient solutions. I am always looking for new challenges and ways to turn ideas into code. My motto is grit!*
 <br>
