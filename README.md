@@ -12,15 +12,20 @@
 
 <br>
 
-## 📌 Main skills! 
-
-[![My Skills](https://skillicons.dev/icons?i=python,postgresql,vscode,git,github,notion,obsidian)](https://skillicons.dev)
+## 🛠️Backend 
+[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
 <br>
+
+## 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+<br>
+
+## ⚙️ Tools & DevOps 
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,obsidian)](https://skillicons.dev)
 <br>
 
 ## 📚 Studying
 [![Learning](https://skillicons.dev/icons?i=linux,docker)](https://skillicons.dev)
-<br>
 <br>
 
 ## 🎖️ Certifications
