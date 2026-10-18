@@ -23,4 +23,5 @@
 <br>
 <br>
 
-
+## 🎖️ Certifications
+<img src="github-foundations.svg" alt="Texto Alternativo" width="100">
