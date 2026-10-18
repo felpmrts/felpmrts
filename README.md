@@ -12,12 +12,8 @@
 
 <br>
 
-## 🛠️ Backend 
-[![My Skills](https://skillicons.dev/icons?i=python,c)](https://skillicons.dev)
-<br>
-
-## 🗄️ Databases
-[![My Skills](https://skillicons.dev/icons?i=postgresql)](https://skillicons.dev)
+## 🛠️ Backend & Databases
+[![My Skills](https://skillicons.dev/icons?i=python,c,postgresql)](https://skillicons.dev)
 <br>
 
 ## ⚙️ Tools & DevOps 
