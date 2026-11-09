@@ -37,9 +37,15 @@ const mobileMenuBtn = document.querySelector('.mobile-menu-btn');
 const navLinks = document.querySelector('.nav-links');
 
 mobileMenuBtn.addEventListener('click', () => {
-    // Basic toggle logic for mobile menu, could be enhanced with actual class toggle
-    // For now we'll just alert as a placeholder since we haven't built the full mobile sidebar CSS
-    alert('Menu mobile click');
+    mobileMenuBtn.classList.toggle('active');
+    navLinks.classList.toggle('active');
+});
+
+navLinks.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+        mobileMenuBtn.classList.remove('active');
+        navLinks.classList.remove('active');
+    });
 });
 
 // GitHub API Integration
