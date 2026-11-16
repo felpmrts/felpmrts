@@ -17,7 +17,7 @@
 <br>
 
 ## ⚙️ Tools & DevOps 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,notion,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vercel,vscode,notion,obsidian)](https://skillicons.dev)
 <br>
 
 ## 📚 Studying
