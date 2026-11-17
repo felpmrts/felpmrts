@@ -25,3 +25,4 @@
 <br>
 
 ## 🎖️ Certifications
+<img src="new-SpaceApps_logo.webp" alt="Certificate" width="80">
