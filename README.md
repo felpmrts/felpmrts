@@ -13,7 +13,7 @@
 <br>
 
 ## 🛠️ Backend & Databases
-[![My Skills](https://skillicons.dev/icons?i=python,c,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,postgresql,supabase)](https://skillicons.dev)
 <br>
 
 ## ⚙️ Tools & DevOps 
